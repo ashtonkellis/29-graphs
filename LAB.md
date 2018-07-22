@@ -20,7 +20,6 @@
 #### Tests
 * Write three test assertions for your breadth-first traversal 
  
-
 #### Documentation  
 Add your Travis badge to the top of your README (even if your build is failing), and describe what a graph is. Include the Big Oh time and space complexity of your breadth-first traversal. 
 
@@ -29,6 +28,7 @@ Add your Travis badge to the top of your README (even if your build is failing),
 * Implement a graph as an adjacency matrix. 
 
 #### submissions
+pr: https://github.com/ashtonkellis/29-graphs/pull/1
 question: 
 observation: 
 and how long you spent:

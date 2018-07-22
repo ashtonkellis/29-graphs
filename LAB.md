@@ -4,6 +4,6 @@
 
 #### submissions
 pr: https://github.com/ashtonkellis/29-graphs/pull/1
-question: 
-observation: 
-and how long you spent:
+question: is this a reasonable white board question?
+observation: sweet algorithm
+and how long you spent: ~2 hours
